@@ -2,7 +2,7 @@
 ## Description:
 This repository contains an analysis of a Retail Sales dataset conducted using Google Sheets. The dataset, sourced from Kaggle, provides valuable insights into consumer behavior and spending patterns across various demographics and timeframes.
 ## Contents:
-* Dataset Sheet: The original dataset obtained from Kaggle.
+*/ Dataset Sheet: The original dataset obtained from Kaggle.
 Data Cleaning Worksheet: A worksheet detailing the cleaning and manipulation steps applied to the dataset to ensure accuracy and consistency.
 Pivot Table 1: Total Spending Amount by Gender: Analysis of total spending amounts categorized by gender.
 Pivot Table 2: Total Spending Amount by Age: Analysis of total spending amounts categorized by age groups.
