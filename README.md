@@ -2,6 +2,8 @@
 ### Description:
 This repository contains an analysis of a Retail Sales dataset conducted using Google Sheets. The dataset, sourced from Kaggle, provides valuable insights into consumer behavior and spending patterns across various demographics and timeframes.
 
+
+
 ### Contents:
 1. **Dataset Sheet:** The original dataset obtained from Kaggle.
 2. **Data Cleaning Worksheet:** A worksheet detailing the cleaning and manipulation steps applied to the dataset to ensure accuracy and consistency.
