@@ -23,3 +23,6 @@ This repository contains an analysis of a Retail Sales dataset conducted using G
 1. Download the provided xlsx file.
 2. Import the file into Google Sheets for interactive exploration of the analysis.
 3. Navigate through the various sheets and pivot tables to gain insights into the retail sales dataset.
+
+### Contributions:
+Contributions, feedback, and suggestions for improvement are welcome. Please feel free to fork this repository and submit pull requests.
