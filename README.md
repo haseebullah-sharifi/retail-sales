@@ -1,8 +1,8 @@
 # Retail Sales Analysis with Google Sheets
-## Description:
+### Description:
 This repository contains an analysis of a Retail Sales dataset conducted using Google Sheets. The dataset, sourced from Kaggle, provides valuable insights into consumer behavior and spending patterns across various demographics and timeframes.
 
-## Contents:
+### Contents:
 1. **Dataset Sheet:** The original dataset obtained from Kaggle.
 2. **Data Cleaning Worksheet:** A worksheet detailing the cleaning and manipulation steps applied to the dataset to ensure accuracy and consistency.
 3. **Pivot Table 1: Total Spending Amount by Gender:** Analysis of total spending amounts categorized by gender.
@@ -18,7 +18,7 @@ This repository contains an analysis of a Retail Sales dataset conducted using G
 13. **Pivot Table 11: Total Sales:**:
 14. **Dashboard:** The final sheet presenting a comprehensive dashboard showcasing the key findings and visual representations of the analysis.
     
-## Usage Instructions:
+### Usage Instructions:
 1. Download the provided xlsx file.
 2. Import the file into Google Sheets for interactive exploration of the analysis.
 3. Navigate through the various sheets and pivot tables to gain insights into the retail sales dataset.
