@@ -26,3 +26,5 @@ This repository contains an analysis of a Retail Sales dataset conducted using G
 
 ### Contributions:
 Contributions, feedback, and suggestions for improvement are welcome. Please feel free to fork this repository and submit pull requests.
+
+[Link to Retail Sales Analysis Dashboard](https://docs.google.com/spreadsheets/d/1NJdY2tRWKa8aguzdbIFCmPQ8_Ab7Azr9yhW5-qTp3ag/edit?usp=sharing)
